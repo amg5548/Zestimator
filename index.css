@@ -1,0 +1,7 @@
+.container > * {
+    margin: 2px;
+}
+
+.swal-text {
+    text-align: center;
+}
